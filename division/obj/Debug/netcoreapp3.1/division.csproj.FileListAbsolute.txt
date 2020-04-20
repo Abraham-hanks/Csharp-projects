@@ -1,0 +1,13 @@
+C:\Users\Abraham\Downloads\StartNG\c#\division\bin\Debug\netcoreapp3.1\division.exe
+C:\Users\Abraham\Downloads\StartNG\c#\division\bin\Debug\netcoreapp3.1\division.deps.json
+C:\Users\Abraham\Downloads\StartNG\c#\division\bin\Debug\netcoreapp3.1\division.runtimeconfig.json
+C:\Users\Abraham\Downloads\StartNG\c#\division\bin\Debug\netcoreapp3.1\division.runtimeconfig.dev.json
+C:\Users\Abraham\Downloads\StartNG\c#\division\bin\Debug\netcoreapp3.1\division.dll
+C:\Users\Abraham\Downloads\StartNG\c#\division\bin\Debug\netcoreapp3.1\division.pdb
+C:\Users\Abraham\Downloads\StartNG\c#\division\obj\Debug\netcoreapp3.1\division.csprojAssemblyReference.cache
+C:\Users\Abraham\Downloads\StartNG\c#\division\obj\Debug\netcoreapp3.1\division.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\Downloads\StartNG\c#\division\obj\Debug\netcoreapp3.1\division.AssemblyInfoInputs.cache
+C:\Users\Abraham\Downloads\StartNG\c#\division\obj\Debug\netcoreapp3.1\division.AssemblyInfo.cs
+C:\Users\Abraham\Downloads\StartNG\c#\division\obj\Debug\netcoreapp3.1\division.dll
+C:\Users\Abraham\Downloads\StartNG\c#\division\obj\Debug\netcoreapp3.1\division.pdb
+C:\Users\Abraham\Downloads\StartNG\c#\division\obj\Debug\netcoreapp3.1\division.genruntimeconfig.cache

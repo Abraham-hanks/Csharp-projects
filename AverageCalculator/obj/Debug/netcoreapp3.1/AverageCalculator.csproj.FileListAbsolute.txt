@@ -1,0 +1,13 @@
+C:\Users\Abraham\Downloads\StartNG\c#\AverageCalculator\obj\Debug\netcoreapp3.1\AverageCalculator.csprojAssemblyReference.cache
+C:\Users\Abraham\Downloads\StartNG\c#\AverageCalculator\obj\Debug\netcoreapp3.1\AverageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\Downloads\StartNG\c#\AverageCalculator\obj\Debug\netcoreapp3.1\AverageCalculator.AssemblyInfoInputs.cache
+C:\Users\Abraham\Downloads\StartNG\c#\AverageCalculator\obj\Debug\netcoreapp3.1\AverageCalculator.AssemblyInfo.cs
+C:\Users\Abraham\Downloads\StartNG\c#\AverageCalculator\bin\Debug\netcoreapp3.1\AverageCalculator.exe
+C:\Users\Abraham\Downloads\StartNG\c#\AverageCalculator\bin\Debug\netcoreapp3.1\AverageCalculator.deps.json
+C:\Users\Abraham\Downloads\StartNG\c#\AverageCalculator\bin\Debug\netcoreapp3.1\AverageCalculator.runtimeconfig.json
+C:\Users\Abraham\Downloads\StartNG\c#\AverageCalculator\bin\Debug\netcoreapp3.1\AverageCalculator.runtimeconfig.dev.json
+C:\Users\Abraham\Downloads\StartNG\c#\AverageCalculator\bin\Debug\netcoreapp3.1\AverageCalculator.dll
+C:\Users\Abraham\Downloads\StartNG\c#\AverageCalculator\bin\Debug\netcoreapp3.1\AverageCalculator.pdb
+C:\Users\Abraham\Downloads\StartNG\c#\AverageCalculator\obj\Debug\netcoreapp3.1\AverageCalculator.dll
+C:\Users\Abraham\Downloads\StartNG\c#\AverageCalculator\obj\Debug\netcoreapp3.1\AverageCalculator.pdb
+C:\Users\Abraham\Downloads\StartNG\c#\AverageCalculator\obj\Debug\netcoreapp3.1\AverageCalculator.genruntimeconfig.cache
